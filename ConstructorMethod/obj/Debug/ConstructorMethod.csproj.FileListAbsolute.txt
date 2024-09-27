@@ -1,0 +1,7 @@
+C:\Users\cigo_\source\repos\ConstructorMethod\ConstructorMethod\bin\Debug\ConstructorMethod.exe.config
+C:\Users\cigo_\source\repos\ConstructorMethod\ConstructorMethod\bin\Debug\ConstructorMethod.exe
+C:\Users\cigo_\source\repos\ConstructorMethod\ConstructorMethod\bin\Debug\ConstructorMethod.pdb
+C:\Users\cigo_\source\repos\ConstructorMethod\ConstructorMethod\obj\Debug\ConstructorMethod.csproj.AssemblyReference.cache
+C:\Users\cigo_\source\repos\ConstructorMethod\ConstructorMethod\obj\Debug\ConstructorMethod.csproj.CoreCompileInputs.cache
+C:\Users\cigo_\source\repos\ConstructorMethod\ConstructorMethod\obj\Debug\ConstructorMethod.exe
+C:\Users\cigo_\source\repos\ConstructorMethod\ConstructorMethod\obj\Debug\ConstructorMethod.pdb
